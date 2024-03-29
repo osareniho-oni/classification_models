@@ -23,13 +23,25 @@ Model performance was evaluated using the confusion matrix.
 
 ## Results
 ## Confusion Matrix:
-![Uploading image.png…](data/matrix)
++-------------------+-------------------+
+
+| True Positive (TP)| False Negative (FN)|
+
++-------------------+-------------------+
+
+| False Positive (FP)| True Negative (TN) |
+
++-------------------+-------------------+
 
 Accuracy: (TP + TN) / (TP + TN + FP + FN)
+
 Precision: TP / (TP + FP)
+
 Recall (Sensitivity): TP / (TP + FN)
+
 F1-Score: 2 * (Precision * Recall) / (Precision + Recall)
 
 ## Conclusion
 The Logistic Regression model achieved satisfactory results in predicting income levels.
+
 Further optimization and feature engineering can be explored to enhance model performance.
