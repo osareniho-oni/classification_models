@@ -1,4 +1,4 @@
-![image](https://github.com/osareniho-oni/classification_models/assets/65869596/3b43ee22-14f2-4ad6-893b-27d7f1516f33)# Adult Income Binary Classification Project
+# Adult Income Binary Classification Project
 ## Overview
 This project focuses on predicting whether an individual’s income exceeds $50,000 per year based on various features. We use a binary classification model with Logistic Regression.
 
